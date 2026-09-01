@@ -1,0 +1,183 @@
+{
+  "schema_version": 1,
+  "skill": "grad-math-modeling",
+  "version": "1.0.1",
+  "archive": "grad-math-modeling.skill",
+  "bytes": 76566,
+  "sha256": "f8287fbe4cd0a4d766f3852f7ba22ff0a80d742c9343ac88f384721805568cb8",
+  "file_count": 33,
+  "files": [
+    {
+      "path": "grad-math-modeling/SKILL.md",
+      "bytes": 8928,
+      "sha256": "c49f6929de0f857334ea5536f25d067362746f08be1013b8b5d500c7b97b59cb"
+    },
+    {
+      "path": "grad-math-modeling/agents/openai.yaml",
+      "bytes": 334,
+      "sha256": "282bc045fee525f90f67461a669ae05593a21cfd2434189147e6665e0ee6d160"
+    },
+    {
+      "path": "grad-math-modeling/assets/manuscript-outline.md",
+      "bytes": 1163,
+      "sha256": "dc18008cf6c25308473b4de4baa646ec7a1b1ab2249149b2178a78df242b58bb"
+    },
+    {
+      "path": "grad-math-modeling/references/award-patterns.md",
+      "bytes": 8384,
+      "sha256": "e2cda305adf9514ba711ea9dd838714d6c743fc13ff17380a827dbd6f1e6ba01"
+    },
+    {
+      "path": "grad-math-modeling/references/competition-rules.md",
+      "bytes": 4850,
+      "sha256": "8244afc9f738b589898e31e2830edb39ea5502094dc50b5d85c172c32fdcbe25"
+    },
+    {
+      "path": "grad-math-modeling/references/data-and-computation.md",
+      "bytes": 2676,
+      "sha256": "d0f3020469b85f699e9f8993d26361e178b576c49cc2d304488cb19809005b09"
+    },
+    {
+      "path": "grad-math-modeling/references/demo.md",
+      "bytes": 2062,
+      "sha256": "9d4869a4094d594166843974368918b7e791fab99882d631081ffb9e33d9bb2a"
+    },
+    {
+      "path": "grad-math-modeling/references/evidence-schema.md",
+      "bytes": 5150,
+      "sha256": "a2d53e964dfaa8153f59c5886dcda9c518b6eac8b6b04f9ee8743a83f9c9e39d"
+    },
+    {
+      "path": "grad-math-modeling/references/figures.md",
+      "bytes": 2901,
+      "sha256": "ae4ab999110b86aa04156c174a5be067edea457a9bbc2111da26c2dd47996e53"
+    },
+    {
+      "path": "grad-math-modeling/references/model-routing.md",
+      "bytes": 3862,
+      "sha256": "b650f764005055cc5bd0ff33612fa9235b2ed9e66cad1ce0f4271f893a6e5fbe"
+    },
+    {
+      "path": "grad-math-modeling/references/review-and-delivery.md",
+      "bytes": 3662,
+      "sha256": "b41d3f1b3ab9f316dc392742574ece4152485a214ebdaacddad63c0d6baaa16d"
+    },
+    {
+      "path": "grad-math-modeling/references/source-catalog.json",
+      "bytes": 43703,
+      "sha256": "5230762dcae6daa21bb5e6c482a3fffdfffb46047c7a7b2474070d6e82d8378e"
+    },
+    {
+      "path": "grad-math-modeling/references/sources.md",
+      "bytes": 7312,
+      "sha256": "6ca65e22c303d454c0a0c60028e1135862f76f298a357a0e17fdd95b8942fbd5"
+    },
+    {
+      "path": "grad-math-modeling/references/time-and-team.md",
+      "bytes": 3430,
+      "sha256": "dc2ee177c8450125500d9a4fbd0b63fff97a44917538db94360db7dd76ffa174"
+    },
+    {
+      "path": "grad-math-modeling/references/topic-and-problem.md",
+      "bytes": 3331,
+      "sha256": "84c19d1316dbf3f1921e218bdb6034cbcbfcab5fb905a4f8a7bc61dceca641a7"
+    },
+    {
+      "path": "grad-math-modeling/references/validation.md",
+      "bytes": 2698,
+      "sha256": "2179afe9a2c01b3d51cbf6cc6fb482d3c8941a4f31e755058aa8a1618b6cb050"
+    },
+    {
+      "path": "grad-math-modeling/references/writing.md",
+      "bytes": 3502,
+      "sha256": "916e696b11886d5c1b5a034a8eb969d72318d62ab01104a867de0930697a644e"
+    },
+    {
+      "path": "grad-math-modeling/scripts/audit_project.py",
+      "bytes": 13714,
+      "sha256": "451a1f6281345603c1e20d4fe1dbcb3b66ad3238d0f84e51c7df0948e6b72202"
+    },
+    {
+      "path": "grad-math-modeling/scripts/common.py",
+      "bytes": 3561,
+      "sha256": "9d8181371e4c3a6080bc67a2753d4aa61aff90ca8faeb3d43232f537ae3ffa97"
+    },
+    {
+      "path": "grad-math-modeling/scripts/freeze_submission.py",
+      "bytes": 3314,
+      "sha256": "02eb860311885acbb382052e2e4317bc71b1599e241d41b86ab1741440f8b346"
+    },
+    {
+      "path": "grad-math-modeling/scripts/init_project.py",
+      "bytes": 2880,
+      "sha256": "78a8560ab3f3b5825d68f456f7137e69c2893b02aaa7a22e18219d8048a60d0d"
+    },
+    {
+      "path": "grad-math-modeling/scripts/make_demo.py",
+      "bytes": 5162,
+      "sha256": "a7b9bcc25d201b8d9db039850b684c44bfa93cfe9fd064548e11a67820bd79aa"
+    },
+    {
+      "path": "grad-math-modeling/scripts/plot_results.py",
+      "bytes": 5455,
+      "sha256": "69749f06d348b7c09a10156fbe440b9e13d67056ec3d3533ecbf3f7629f1151d"
+    },
+    {
+      "path": "grad-math-modeling/scripts/run_experiment.py",
+      "bytes": 5841,
+      "sha256": "2715e88216b199452347a75f16103ea6ed9581c834aecc200e943c03d20433cb"
+    },
+    {
+      "path": "grad-math-modeling/assets/demo/config.json",
+      "bytes": 136,
+      "sha256": "b6364e75d70af7575f5ced7385058df7a82798105be415464a5e56bdeef19498"
+    },
+    {
+      "path": "grad-math-modeling/assets/demo/items.csv",
+      "bytes": 36,
+      "sha256": "0463cd7287137b8e9e533a6c5ea97bc317c1a37dae5b787db43b6cbf9161bbd2"
+    },
+    {
+      "path": "grad-math-modeling/assets/demo/solve_allocation.py",
+      "bytes": 4429,
+      "sha256": "ff48a7b8c46db566656ed157ee3917179c2e4715666d63dfb2d94c873a3d8118"
+    },
+    {
+      "path": "grad-math-modeling/references/algorithms/evaluation.md",
+      "bytes": 1567,
+      "sha256": "334318be2f426d99638f4616f6f34646d292f698e298b3d8fa06b3d2b626defc"
+    },
+    {
+      "path": "grad-math-modeling/references/algorithms/graphs.md",
+      "bytes": 1225,
+      "sha256": "2b9faced5e8cd96e2ee93ff8c8bcb41eeb3a8e711df18384a59b4587a5ce5108"
+    },
+    {
+      "path": "grad-math-modeling/references/algorithms/mechanism.md",
+      "bytes": 1749,
+      "sha256": "b9cfe254118a5bbb7dc39dd1a0de0e8c6626e6fcc832c9f1d5c56ec95e5b1e6b"
+    },
+    {
+      "path": "grad-math-modeling/references/algorithms/optimization.md",
+      "bytes": 2567,
+      "sha256": "e80fe71678db9f5bb83a6da7d75d6179ce59b4d9bac61c088b9c72425ff24d43"
+    },
+    {
+      "path": "grad-math-modeling/references/algorithms/prediction.md",
+      "bytes": 2502,
+      "sha256": "05e4e68033d1ee391e10ad6af9f2f6abbb9a4635b6b8279567d49b78d97da84d"
+    },
+    {
+      "path": "grad-math-modeling/references/algorithms/signal-image.md",
+      "bytes": 1889,
+      "sha256": "394ee690d00186120ade2eb0777447d674c2dd59e70c5115c17ee53327152381"
+    }
+  ],
+  "exclusions_verified": [
+    "eval outputs/tests",
+    "raw papers and award sheets",
+    "PDF/RAR/XLSX/PNG/JPG",
+    "__pycache__/pyc"
+  ],
+  "note": "Hashes exact distributed bytes; does not certify contest results or third-party services."
+}
