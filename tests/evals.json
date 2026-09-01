@@ -1,0 +1,52 @@
+{
+  "skill_name": "grad-math-modeling",
+  "evals": [
+    {
+      "id": 1,
+      "name": "topic-selection",
+      "prompt": "我们三名研究生正在用虚构题练习华为杯流程，不是正在进行的正式比赛，训练总时长100小时。两人熟悉Python/pandas/sklearn，一人熟悉MATLAB微分方程，但都没写过大规模整数规划。设备是三台16GB内存电脑和一块8GB显存GPU。题A是80GB雷达多帧降水预测，要求多源融合和60分钟预报，数据尚未解压；题B是7MB的30种商品168期需求和生产参数，要求预测下一期需求、给预算与库存约束下的生产计划、分析需求扰动；题C是40MB的热扩散观测，要求识别材料参数和优化加热过程，但边界条件说明有歧义。请直接推荐选题并给备选、取舍证据、头6小时的三人工作安排、首个能验证的模型链及放弃高风险路线的触发条件。不要写成算法百科；题目正文未提供的事实请标为待核实。回答不超过1500个汉字，保存为answer.md。",
+      "expected_output": "有条件的选题决定、可用资源下的原型和风险回退，区分已知与待核实；不虚构比赛规则和获奖概率。",
+      "files": [],
+      "expectations": [
+        "Recommends B as the main choice, keeps C only as a conditional backup, and deprioritizes A for the stated readiness/resources without claiming that file size alone makes A impossible.",
+        "Compares choices using the supplied team skills, data readiness, compute, model closure, and validation risk; does not invent award probabilities or official scoring weights.",
+        "Gives a concrete, parallel first-six-hour plan for all three people with runnable small prototypes and decision checkpoints rather than a list of algorithm names.",
+        "Provides a temporal prediction baseline, a production/inventory/budget feasibility model with an independent small-case check, and a demand-disturbance test that distinguishes fixed-plan robustness from hindsight re-optimization.",
+        "Explicitly marks missing problem facts such as units, objectives, lead times, or hard constraints as needing verification instead of silently filling them in.",
+        "Defines actionable stop/fallback conditions that retain a feasible baseline and do not delete hard constraints merely to obtain an answer.",
+        "The answer body does not exceed 1500 Chinese characters as requested."
+      ]
+    },
+    {
+      "id": 2,
+      "name": "optimization-equivalence",
+      "prompt": "备赛练习：产量y满足0≤y≤140，正常需求80，单价10，超产部分按单价的40%出售，单位生产成本3。真实利润为10[min(y,80)+0.4max(y-80,0)]-3y。同学写了Q≤y、Q≤80+0.4r、r≥y-80、r≥0，最大化10Q-3y，并报告y=140、利润980，说求解器成功所以线性化正确。请核验，给出具体反例、适用于此目标的正确线性模型及适用边界，并用你真正运行的小程序核对最优产量和利润。不需要论文项目初始化。请将中文说明保存answer.md，核验代码和实际运行输出保存在同一输出目录；不要伪造运行。",
+      "expected_output": "实际数学检查及运行证据；发现松弛错误，给出有目标条件的正确模型，不把求解器成功当正确性证明。",
+      "files": [],
+      "expectations": [
+        "Shows that the proposed constraints admit y=140, r=150, Q=140 (or an equally explicit feasible counterexample) and explains that the modeled objective 980 differs from the true profit 620.",
+        "Derives a correct linear hypograph formulation, for example 0≤y≤140, Q≤y, Q≤0.4y+48, maximizing 10Q−3y, or an algebraically equivalent formulation.",
+        "States the essential applicability condition: the revenue auxiliary is maximized with a positive coefficient and can be raised to its upper envelope; the inequalities are not a universal graph-of-equality formulation.",
+        "Correctly concludes from the true piecewise profit that y=140 and profit=620 are optimal, with a mathematical slope/breakpoint argument rather than relying only on a numerical grid.",
+        "Actually runs a saved verification program and retains both the program and its output; the evidence checks at least the breakpoints and reported optimizer, not merely a hard-coded sentence.",
+        "Distinguishes solver success for the entered model from correctness/equivalence of that model and avoids unnecessary full-project initialization."
+      ]
+    },
+    {
+      "id": 3,
+      "name": "evidence-to-abstract",
+      "prompt": "这是已经结束的模拟数模训练。请帮我终审并改写下面的结果段，写得清楚、有竞争力，但不能替我补造实验。现有记录：同一事件级留出集、同一60分钟预报任务，baseline CSI=0.113，new CSI=0.138；两者均只跑一个种子。ConvLSTM和PredRNN只查了论文参数量，没有在这批数据上跑CSI。训练集中的患者小实验只有模型概率，无真实标签。另一个生产计划模型的求解器达到时限，找到利润1250的可行解，最大化问题的上界1300，独立检查约束通过。初稿：\"我们提出的方法在60分钟CSI达到0.181，比基线提升18.8%，显著超越ConvLSTM和PredRNN；患者模型高置信度证明准确，优化算法获得全局最优利润1250。\"请给可直接替换的结果段、每处改动的依据和有限时间下最值得补的两项验证。不要把其他论文的结果替代本队结果，不要制作漂亮的假图。中文说明保存answer.md；若做算术核验，保留计算脚本或结果。",
+      "expected_output": "正文数字与证据一致，正确计算绝对/相对增益与优化界差；不过度宣称显著、优于未测试基线、无标签正确或全局最优。",
+      "files": [],
+      "expectations": [
+        "The replacement paragraph uses CSI 0.138 versus 0.113, reports an absolute gain of 0.025 and a relative gain of about 22.1%, and does not retain 0.181 or 18.8% as this team's result.",
+        "Does not claim statistical significance from one seed and states the scope as the same event-level holdout and 60-minute task.",
+        "Does not claim to beat ConvLSTM or PredRNN because their CSI was not measured on this data.",
+        "Does not treat confidence on unlabeled patient examples as evidence of accuracy; any mention is limited to a descriptive output needing labeled/calibration evaluation.",
+        "Calls profit 1250 a constraint-checked incumbent/feasible solution, not a global optimum, and reports the bound 1300 plus an explicit absolute gap 50 and a clearly-denominated relative gap around 3.85–4.0%.",
+        "Provides exactly two high-value follow-up validation actions that target the material uncertainties and are feasible under the stated limited time.",
+        "Separates the replacement prose from the change rationale and does not invent experiments, comparison values, plots, or citations."
+      ]
+    }
+  ]
+}
