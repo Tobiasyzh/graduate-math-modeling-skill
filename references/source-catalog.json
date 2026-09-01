@@ -1,0 +1,1157 @@
+{
+  "schema_version": 1,
+  "checked_on": "2026-08-31",
+  "timezone": "Asia/Shanghai",
+  "purpose": "Design provenance, not contest outcome or independent paper reproduction evidence",
+  "rules": [
+    {
+      "id": "CPMCM-2026-INVITATION",
+      "title": "“华为杯”第二十三届中国研究生数学建模竞赛参赛邀请函",
+      "url": "https://cpipc.acge.org.cn/cw/contestNews/detail/4/2c9080189dcfa24e019dddacc24a1314?page=0",
+      "publisher": "中国研究生数学建模竞赛组委会、第二十三届执行委员会及西安交通大学相关单位",
+      "publication_date": "2026-04-30",
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "web open; full relevant HTML sections",
+      "locators": [
+        "一（二）",
+        "二",
+        "三",
+        "四.1—四.6",
+        "五"
+      ],
+      "supports": [
+        "eligibility",
+        "team_size",
+        "newcomer_cross_school_exception",
+        "registration_deadline",
+        "verification_deadline",
+        "payment_deadline",
+        "contest_times",
+        "md5_window",
+        "pdf_window",
+        "external_help_prohibition",
+        "citation_requirements"
+      ],
+      "limitations": [
+        "Does not supply complete 2026 AI policy, paper template, attachment window, attachment size or numeric plagiarism threshold."
+      ]
+    },
+    {
+      "id": "CPMCM-2026-HOME",
+      "title": "中国研究生数学建模竞赛：赛程安排与赛事规则",
+      "url": "https://cpipc.acge.org.cn/cw/hp/4",
+      "publisher": "中国研究生创新实践系列大赛管理平台",
+      "publication_date": null,
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "web open",
+      "locators": [
+        "赛程安排",
+        "赛事规则/参赛对象",
+        "赛事规则/参赛方式"
+      ],
+      "supports": [
+        "eligibility",
+        "team_size",
+        "current_schedule_cross_check"
+      ],
+      "limitations": [
+        "Dynamic annual page; re-read at use time."
+      ]
+    },
+    {
+      "id": "CPMCM-FAQ",
+      "title": "中国研究生数学建模竞赛常见问题",
+      "url": "https://cpipc.acge.org.cn/cw/contestData/4/3",
+      "publisher": "中国研究生创新实践系列大赛管理平台",
+      "publication_date": null,
+      "competition_year": null,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "web open",
+      "locators": [
+        "Q2",
+        "Q6",
+        "Q9"
+      ],
+      "supports": [
+        "all_three_members_must_be_newcomers_for_cross_school",
+        "trainer_is_not_contest_solver"
+      ],
+      "limitations": [
+        "Undated living FAQ; no substitute for an edition-specific correction."
+      ]
+    },
+    {
+      "id": "XJTU-2026-NOTICE",
+      "title": "关于选拔报名参加2026年第二十三届中国研究生数学建模竞赛的通知",
+      "url": "https://gs.xjtu.edu.cn/info/1179/11500.htm",
+      "publisher": "西安交通大学研究生院、数学建模竞赛工作室",
+      "publication_date": "2026-06-18",
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "B1",
+      "reading_method": "web open",
+      "locators": [
+        "二（错误日期记录）",
+        "四",
+        "五"
+      ],
+      "supports": [
+        "award_caps",
+        "star_defense_selection",
+        "source_conflict_example"
+      ],
+      "limitations": [
+        "Section 二 contains a stale 2025 audit-date paragraph. The organizer invitation and event homepage override it."
+      ]
+    },
+    {
+      "id": "CPMCM-2025-INVITATION",
+      "title": "“华为杯”第二十二届中国研究生数学建模竞赛参赛邀请函",
+      "url": "https://cpipc.acge.org.cn/cw/contestNews/detail/4/2c908017963932320196a503477b42ba",
+      "publisher": "中国研究生数学建模竞赛组委会、第二十二届执行委员会、中国矿业大学",
+      "publication_date": "2025-05-06",
+      "competition_year": 2025,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "web open",
+      "locators": [
+        "一（二）",
+        "四",
+        "五"
+      ],
+      "supports": [
+        "historical_2025_eligibility",
+        "historical_2025_schedule",
+        "historical_2025_host"
+      ],
+      "limitations": [
+        "Historical edition only."
+      ]
+    },
+    {
+      "id": "CPMCM-2025-START",
+      "title": "“华为杯”第二十二届中国研究生数学建模竞赛开赛公告",
+      "url": "https://cpipc.acge.org.cn/cw/contestNews/detail/4/2c90801b9914a68201994b1403512e96",
+      "discovery_url": "https://cpipc.acge.org.cn/cw/detail/4/2c90801b9914a68201994b1403512e96",
+      "publisher": "中国研究生数学建模竞赛组委会、第二十二届执行委员会、中国矿业大学",
+      "publication_date": "2025-09-15",
+      "competition_year": 2025,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "web open plus original attachment links read from HTML",
+      "locators": [
+        "一.4—一.7",
+        "四（一）",
+        "四（二）",
+        "五",
+        "六",
+        "附件2、4"
+      ],
+      "supports": [
+        "historical_submission_stages",
+        "historical_attachment_size",
+        "historical_naming",
+        "cover_exception",
+        "historical_ai_permission",
+        "submit_button",
+        "official_clarification_channel"
+      ],
+      "limitations": [
+        "Historical edition only; 2025 exceptional email remedy cannot be assumed in 2026."
+      ]
+    },
+    {
+      "id": "CPMCM-2025-REMINDER",
+      "title": "关于“华为杯”第二十二届中国研究生数学建模竞赛赛题下载及提交作品的重要提醒",
+      "url": "https://cpipc.acge.org.cn/cw/contestNews/detail/4/2c90801599532d0501995bd5a10c7182",
+      "publisher": "中国研究生数学建模竞赛组委会、第二十二届执行委员会、中国矿业大学",
+      "publication_date": "2025-09-19",
+      "competition_year": 2025,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "Organizer notice-list full text opened with web; direct original HTML additionally read with urllib in memory after web open failure.",
+      "locators": [
+        "第3条",
+        "第5条",
+        "第7条",
+        "第9条"
+      ],
+      "supports": [
+        "cover_logo_preservation",
+        "anonymity_including_attachments",
+        "no_pdf_changes_after_md5",
+        "no_online_plagiarism_check_during_contest",
+        "official_clarification_channel"
+      ],
+      "limitations": [
+        "Historical edition only; direct web reader returned an error, independent public HTTP read succeeded."
+      ]
+    },
+    {
+      "id": "CPMCM-2025-FORMAT",
+      "title": "“华为杯”第二十二届中国研究生数学建模竞赛论文格式规范",
+      "url": "https://cpipc.acge.org.cn/sysFile/downFile.do?fileId=65a3475c51e94c2fb8dea617bb1a310c",
+      "parent_source_id": "CPMCM-2025-START",
+      "publisher": "中国研究生数学建模竞赛专家委员会",
+      "publication_date": "2025-09-15",
+      "competition_year": 2025,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "Direct original PDF read into memory with urllib and all 3 pages extracted with pypdf; page 3 blank.",
+      "page_count": 3,
+      "locators": [
+        "第1页格式条款",
+        "第2页引用格式与落款"
+      ],
+      "sha256": "127d0b629d2475f97ed1e206dd7d34ccb6a9e0c56a75e7493bcd969c9dfa03c0",
+      "supports": [
+        "historical_typography",
+        "historical_abstract",
+        "historical_page_numbering",
+        "historical_citation_style"
+      ],
+      "limitations": [
+        "Historical edition only; read in conjunction with the later cover exception clarification."
+      ]
+    },
+    {
+      "id": "CPMCM-2025-AI",
+      "title": "“华为杯”第二十二届中国研究生数学建模竞赛人工智能工具及输出使用规定（2025）",
+      "url": "https://cpipc.acge.org.cn/sysFile/downFile.do?fileId=e3edba52b87c4bf7922f737c35c14b74",
+      "parent_source_id": "CPMCM-2025-START",
+      "publisher": "中国研究生数学建模竞赛组织委员会、中国研究生数学建模竞赛专家委员会",
+      "publication_date": "2025-08-21",
+      "linked_in_notice_date": "2025-09-15",
+      "competition_year": 2025,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "Web misclassified PDF as HTML; direct original PDF read into memory with urllib and both pages extracted with pypdf.",
+      "page_count": 2,
+      "locators": [
+        "第1页第1—9条",
+        "第2页落款"
+      ],
+      "sha256": "6441795b250bed6d15f936e4088cb7086f0e9d8f09df016f7be186cf2b7d8779",
+      "supports": [
+        "historical_ai_allowed_as_assistance",
+        "independent_thinking_and_core_innovation",
+        "human_understanding_and_own_words",
+        "source_verification",
+        "data_analysis_and_code_disclosure",
+        "model_release_date_field",
+        "problem_specific_interaction_disclosure"
+      ],
+      "limitations": [
+        "2026-specific applicability has not been established; do not relabel as the 2026 policy."
+      ]
+    },
+    {
+      "id": "CPMCM-2025-REVIEW",
+      "title": "“华为杯”第二十二届中国研究生数学建模竞赛评审公告",
+      "url": "https://cpipc.acge.org.cn/cw/contestNews/detail/4/2c9080159a80f856019a8f83159814f9",
+      "publisher": "中国研究生数学建模竞赛专家委员会",
+      "publication_date": "2025-11-17",
+      "competition_year": 2025,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "web open",
+      "locators": [
+        "正文首段",
+        "第二项",
+        "第四项"
+      ],
+      "supports": [
+        "two_stage_review",
+        "actual_first_prize_proportion_is_not_cap",
+        "plagiarism_sanctions"
+      ],
+      "limitations": [
+        "Does not reveal per-problem detailed scoring weights; historical statistics are not a forecast."
+      ]
+    },
+    {
+      "id": "MATHOR-OFFICIAL-LINK",
+      "title": "MathorCup官网通知：2026年第十六届赛题发布",
+      "url": "https://mathorcup.org/notice",
+      "publisher": "MathorCup组委会",
+      "publication_date": "2026-04-17",
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "A1",
+      "reading_method": "web open",
+      "locators": [
+        "2026-04-17赛题发布/作品提交及公告入口"
+      ],
+      "supports": [
+        "saikr_designated_official_publication_chain"
+      ],
+      "limitations": [
+        "Dynamic notice list; this record concerns the identified 2026 notice, not arbitrary platform content."
+      ]
+    },
+    {
+      "id": "MATHOR-2026-REGISTRATION",
+      "title": "2026年第十六届MathorCup数学应用挑战赛报名页",
+      "url": "https://www.saikr.com/vse/mathorcup2026",
+      "publisher": "MathorCup数学应用挑战赛组委会（官网指定赛氪赛事页面）",
+      "publication_date": null,
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "A2",
+      "reading_method": "web open",
+      "locators": [
+        "三、参赛对象",
+        "附件3、4",
+        "2026-02-09 AI公告链接",
+        "2026-04-16论文规范链接"
+      ],
+      "supports": [
+        "graduate_eligibility",
+        "team_size_1_to_3",
+        "no_cross_school",
+        "highest_enrollment_level_decides_group",
+        "official_document_links"
+      ],
+      "limitations": [
+        "Spring mathematics application challenge; does not cover the separate big-data competition."
+      ]
+    },
+    {
+      "id": "MATHOR-2026-CHARTER",
+      "title": "MathorCup数学应用挑战赛竞赛章程",
+      "url": "https://publicqn.saikr.com/2026/02/04/contest6982b300494e46.375931171770173205808.pdf",
+      "parent_source_id": "MATHOR-2026-REGISTRATION",
+      "publisher": "MathorCup数学应用挑战赛组委会",
+      "publication_date": "2026-01",
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "A2",
+      "reading_method": "web PDF open; independent in-memory pypdf extraction of both pages",
+      "page_count": 2,
+      "locators": [
+        "第1页第二条",
+        "第1页第三条第3款",
+        "第2页第五、六条"
+      ],
+      "sha256": "982c9c62cbf5f7e2b7ca0c390fc804ac8629a7f91400bffbd177c62245d9060e",
+      "supports": [
+        "graduate_group_A_or_B_only",
+        "official_qualitative_review_criteria",
+        "no_in_contest_advisor_guidance"
+      ],
+      "limitations": [
+        "No numeric scoring weights are provided."
+      ]
+    },
+    {
+      "id": "MATHOR-2026-AI",
+      "title": "人工智能工具使用规定：2026年第十六届MathorCup数学应用挑战赛",
+      "url": "https://www.saikr.com/c/nd/39401",
+      "pdf_url": "https://publicqn.saikr.com/2026/02/04/contest6982b300494e46.375931171770173211124.pdf",
+      "parent_source_id": "MATHOR-2026-REGISTRATION",
+      "publisher": "MathorCup数学应用挑战赛组委会",
+      "publication_date": "2026-01",
+      "web_notice_date": "2026-02-09",
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "A2",
+      "reading_method": "Full HTML open; linked original PDF independently extracted with pypdf in memory",
+      "page_count": 2,
+      "locators": [
+        "一至八",
+        "PDF第1页二至五",
+        "PDF第2页五至八"
+      ],
+      "sha256": "a67a8a1c6be3f85db8928558b8670ffe1d8f94b8439fc3c96ab7987724a802bb",
+      "supports": [
+        "human_core_work",
+        "verify_ai_output",
+        "use_or_nonuse_declaration",
+        "in_text_and_code_disclosure",
+        "tool_reference_with_use_date",
+        "mandatory_AI_details_PDF",
+        "key_interactions_and_human_edits"
+      ],
+      "limitations": [
+        "Applies to the identified MathorCup event; cannot replace CPMCM rules."
+      ]
+    },
+    {
+      "id": "MATHOR-2026-FORMAT",
+      "title": "论文格式及提交规范：2026年第十六届MathorCup数学应用挑战赛（论文模板和承诺书见附件）",
+      "url": "https://www.saikr.com/c/nd/41852",
+      "parent_source_id": "MATHOR-2026-REGISTRATION",
+      "publisher": "MathorCup数学应用挑战赛组委会",
+      "publication_date": "2026-04-16",
+      "document_revision": "2026-04",
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "A2",
+      "reading_method": "web open; full format and submission sections",
+      "locators": [
+        "一.1—一.7",
+        "二.1—二.5",
+        "提交状态注意事项"
+      ],
+      "supports": [
+        "paper_anonymity",
+        "abstract_TOC_body_order",
+        "body_page_numbering",
+        "chinese_paper",
+        "approx_30_body_pages",
+        "separate_signed_commitment",
+        "source_code_appendix_and_retention",
+        "file_naming",
+        "submission_status"
+      ],
+      "limitations": [
+        "General optional-support wording must be read alongside the specific AI-details requirement and the selected problem statement."
+      ]
+    },
+    {
+      "id": "NUIST-2026-HISTORICAL-AI-CROSSCHECK",
+      "title": "2026年南京信息工程大学研究生数学建模选拔赛赛题发布",
+      "url": "https://yjs.nuist.edu.cn/info/1009/4578.htm",
+      "publisher": "南京信息工程大学研究生工作部、研究生院、数学与统计学院",
+      "publication_date": "2026-06-12",
+      "competition_year": 2026,
+      "read_date": "2026-08-31",
+      "evidence_level": "B1",
+      "reading_method": "web open HTML; attachment link discovered but not needed after original CPMCM PDF was read",
+      "locators": [
+        "AI使用段",
+        "附件4标题"
+      ],
+      "supports": [
+        "university_training_event_reuses_2025_CPMCM_AI_rules"
+      ],
+      "limitations": [
+        "Local selection-event use is not proof of national 2026 applicability."
+      ]
+    }
+  ],
+  "unresolved_current_rules": [
+    "2026 CPMCM-specific AI policy or explicit continued applicability of the 2025 policy",
+    "Complete 2026 CPMCM official paper template and attachment submission/size rules",
+    "2026 CPMCM per-problem deliverable formats and numeric scoring criteria",
+    "Rules for MathorCup big-data event and provincial graduate events are outside this verified profile",
+    "MCM/ICM and CUMCM are not classified as verified graduate-eligible competitions in this ledger"
+  ],
+  "papers": [
+    {
+      "filename": "B23100070010.pdf",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/国赛论文/2023年优秀论文/B/B23100070010.pdf",
+      "sha256": "dae1f5b0084b890f57cf5f32d50624813c50142e80facec528dec185b4caf873",
+      "bytes": 9835840,
+      "team_id": "23100070010",
+      "award": "2023 Huawei Cup 数模之星冠军",
+      "identity_evidence_status": "official_university_named_champion_plus_PDF_identity",
+      "pdf_pages": 74,
+      "selected_text_pages_read": [
+        1,
+        2,
+        3,
+        4,
+        8,
+        9,
+        14,
+        32,
+        39,
+        44,
+        45
+      ],
+      "reading_status": "selected relevant sections; remaining pages navigation only",
+      "visual_pages_checked": [
+        32
+      ],
+      "independent_reproduction": false,
+      "redistributed": false,
+      "award_source": "https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm"
+    },
+    {
+      "filename": "A23100070049.pdf",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/国赛论文/2023年优秀论文/A/A23100070049.pdf",
+      "sha256": "d33556a20cd948a1a64b448a798d7bd5199ed33e64b8b42f9c9066718709cc1a",
+      "bytes": 2405135,
+      "team_id": "23100070049",
+      "award": "2023 Huawei Cup 一等奖、华为专项二等奖",
+      "identity_evidence_status": "official_university_first_prize_plus_mirrored_results_special_prize",
+      "pdf_pages": 56,
+      "selected_text_pages_read": [
+        1,
+        2,
+        3,
+        9,
+        12,
+        16,
+        19,
+        24,
+        39,
+        40,
+        41
+      ],
+      "reading_status": "selected relevant sections; remaining pages navigation only",
+      "visual_pages_checked": [
+        40
+      ],
+      "independent_reproduction": false,
+      "redistributed": false,
+      "award_source": "https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm"
+    },
+    {
+      "filename": "2021D-Shanghai.pdf",
+      "url": "https://raw.githubusercontent.com/DongZhouGu/MathModel-Pretrain/master/数模之星/D题-上海大学-论文.pdf",
+      "sha256": "f2ebfff348d4f8fecb5e6d7da00976eca2a1abbc6e4a17f506e1f5d2da00624f",
+      "bytes": 6628129,
+      "team_id": null,
+      "award": "author-reported awards; final award level not independently verified",
+      "identity_evidence_status": "supplemental_author_repository_only",
+      "pdf_pages": 80,
+      "selected_text_pages_read": [
+        1,
+        2,
+        3,
+        29,
+        30,
+        33,
+        39,
+        55,
+        56,
+        58,
+        59,
+        60,
+        61
+      ],
+      "reading_status": "selected relevant sections; remaining pages navigation only",
+      "visual_pages_checked": [],
+      "independent_reproduction": false,
+      "redistributed": false,
+      "award_source": null
+    },
+    {
+      "id": "huawei-2023-f-23102860072",
+      "title": "基于多任务学习和时空预测模型的降水临近预报方法",
+      "team_id": "23102860072",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/F/F23102860072.pdf",
+      "sha256": "d74d8b08a844e2d66698b3759edce23a2fc26717cabd1cf51cd1b65844c0e02a",
+      "bytes": 34396942,
+      "pdf_pages": 39,
+      "award_evidence": {
+        "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/2023%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95/%E2%80%9C%E5%8D%8E%E4%B8%BA%E6%9D%AF%E2%80%9D%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9BF%E9%A2%98%E6%88%90%E7%BB%A9.xlsx",
+        "origin_class": "third_party_mirror_of_results_list",
+        "sha256": "a55c1b311bdb7526b8146862d6f9ab866e865257abe4bde97131964bf6020a19",
+        "sheet": "Sheet1",
+        "row": 3,
+        "recorded_award": "一等奖(提名参加“数模之星”答辩)",
+        "identity_match": "team_id + three author names + university",
+        "final_rank_independently_verified": false,
+        "do_not_claim": "亚军"
+      },
+      "reading": {
+        "text_full_pdf_physical_pages": [
+          1,
+          2,
+          7,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "text_full_printed_pages": [
+          1,
+          6,
+          8,
+          9,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "other_pages": "Page-head navigation only",
+        "visually_checked_pdf_pages": [
+          25,
+          35
+        ],
+        "visually_checked_printed_pages": [
+          24,
+          34
+        ],
+        "image_scope": "Temporary full-page renders; no figure material redistributed"
+      },
+      "independent_reproduction": false,
+      "redistributed": false
+    },
+    {
+      "id": "huawei-2023-e-23100650012",
+      "title": "出血性脑卒中临床智能诊疗建模",
+      "team_id": "23100650012",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/%E5%9B%BD%E8%B5%9B%E8%AE%BA%E6%96%87/2023%E5%B9%B4%E4%BC%98%E7%A7%80%E8%AE%BA%E6%96%87/E/E23100650012.pdf",
+      "sha256": "8d1abbc798cc27e01322cb36adfe87c716f9425ad3b07d97c822a0c756fc41f3",
+      "bytes": 5767144,
+      "pdf_pages": 59,
+      "award_evidence": {
+        "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/2023%E5%B9%B4%E6%9C%80%E7%BB%88%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95/%E2%80%9C%E5%8D%8E%E4%B8%BA%E6%9D%AF%E2%80%9D%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%A0%94%E7%A9%B6%E7%94%9F%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E7%AB%9E%E8%B5%9BE%E9%A2%98%E6%88%90%E7%BB%A9.xlsx",
+        "origin_class": "third_party_mirror_of_results_list",
+        "sha256": "f3db2e610efe77bd7d194c40ab7b9f223541df9839031da577c140aead236db5",
+        "sheet": "Sheet1",
+        "row": 3,
+        "recorded_award": "一等奖(提名参加“数模之星”答辩)",
+        "identity_match": "team_id + three author names + university",
+        "official_confirmation": {
+          "url": "https://glxy.tjnu.edu.cn/info/1046/3550.htm",
+          "origin_class": "official_university_news",
+          "publisher": "天津师范大学管理学院",
+          "published_on": "2023-12-21",
+          "named_team_match": true,
+          "confirmed_awards": [
+            "一等奖",
+            "数模之星提名奖"
+          ],
+          "read": true
+        }
+      },
+      "reading": {
+        "text_full_pdf_physical_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          18,
+          19,
+          20,
+          22,
+          23,
+          24,
+          25,
+          29,
+          31,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ],
+        "text_full_printed_pages": [
+          1,
+          2,
+          3,
+          4,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          17,
+          18,
+          19,
+          21,
+          22,
+          23,
+          24,
+          28,
+          30,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47
+        ],
+        "text_excerpts_pdf_physical_pages": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "text_excerpts_printed_pages": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ],
+        "excerpt_scope": "first five and last seven non-normalized lines for treatment-association discussion",
+        "visually_checked_pdf_pages": [
+          19,
+          24
+        ],
+        "visually_checked_printed_pages": [
+          18,
+          23
+        ],
+        "appendix_scope": "page-head navigation only; no source-code execution",
+        "image_scope": "Temporary full-page renders; no figure material redistributed"
+      },
+      "independent_reproduction": false,
+      "redistributed": false
+    },
+    {
+      "record_id": "mathorcup-bigdata-2021-paper-1",
+      "archive_member": "2021年MathorCup大数据竞优秀论文1.pdf",
+      "title": "基于多模型 Stacking 融合的二手车定价销售策略研究",
+      "team_id": "MCB2100090",
+      "competition": "2021年MathorCup高校数学建模挑战赛——大数据竞赛",
+      "competition_type": "big_data_competition_not_spring_challenge",
+      "track": "A",
+      "group": "本科生组",
+      "medal": "金奖",
+      "grade_award": "一等奖",
+      "source_id": "official-2021-paper-archive",
+      "source_locator": "archive member 2021年MathorCup大数据竞优秀论文1.pdf; PDF page 1 team ID",
+      "award_evidence": [
+        {
+          "source_id": "official-2021-grade-awards",
+          "pdf_page": 1
+        },
+        {
+          "source_id": "official-2021-medal-table",
+          "locator": "金奖 section, team MCB2100090"
+        }
+      ],
+      "sha256": "2ff6d4f2cff7d19cbfd8882c4d4ed857445a960d8e42f9f80f3d440c830249c5",
+      "bytes": 2587473,
+      "pdf_page_count": 35,
+      "reading_status": "all_pages_of_public_pdf_read",
+      "read_pages": "1-35",
+      "visually_inspected_pdf_pages": [
+        21,
+        22,
+        23
+      ],
+      "independently_reproduced": false,
+      "completeness_note": "All 35 public PDF pages read; separate reports, figures, training data and result files mentioned by the authors were not obtained. This gold-medal team belongs to the undergraduate group."
+    },
+    {
+      "record_id": "mathorcup-bigdata-2021-paper-2",
+      "archive_member": "2021年MathorCup大数据竞优秀论文2.pdf",
+      "title": "信息流智能推荐算法中的序列评估问题",
+      "team_id": "MCB2102360",
+      "competition": "2021年MathorCup高校数学建模挑战赛——大数据竞赛",
+      "competition_type": "big_data_competition_not_spring_challenge",
+      "track": "B",
+      "group": "研究生组",
+      "medal": "银奖",
+      "grade_award": "一等奖",
+      "source_id": "official-2021-paper-archive",
+      "source_locator": "archive member 2021年MathorCup大数据竞优秀论文2.pdf; PDF page 1 team ID",
+      "award_evidence": [
+        {
+          "source_id": "official-2021-grade-awards",
+          "pdf_page": 22
+        },
+        {
+          "source_id": "official-2021-medal-table",
+          "locator": "银奖 section, team MCB2102360"
+        }
+      ],
+      "sha256": "f13c5cfc6d691caf41d374ce0c3dcfcb20c9c3a88085f855f8a5dd6bc0769643",
+      "bytes": 2248779,
+      "pdf_page_count": 29,
+      "reading_status": "all_pages_of_public_pdf_read",
+      "read_pages": "1-29",
+      "visually_inspected_pdf_pages": [
+        13,
+        24,
+        27
+      ],
+      "independently_reproduced": false,
+      "completeness_note": "29-page public PDF; printed footer says 37 pages and TOC lists appendix; public PDF ends at references, without code appendix. All public pages read, not the full original submission package."
+    },
+    {
+      "record_id": "mathorcup-bigdata-2021-paper-4",
+      "archive_member": "2021年MathorCup大数据竞优秀论文4.pdf",
+      "title": "基于能量损失的 Transformer 和相似用户模型的推荐序列评估算法",
+      "team_id": "MCB2102791",
+      "competition": "2021年MathorCup高校数学建模挑战赛——大数据竞赛",
+      "competition_type": "big_data_competition_not_spring_challenge",
+      "track": "B",
+      "group": "研究生组",
+      "medal": "铜奖",
+      "grade_award": "一等奖",
+      "source_id": "official-2021-paper-archive",
+      "source_locator": "archive member 2021年MathorCup大数据竞优秀论文4.pdf; PDF page 1 team ID",
+      "award_evidence": [
+        {
+          "source_id": "official-2021-grade-awards",
+          "pdf_page": 22
+        },
+        {
+          "source_id": "official-2021-medal-table",
+          "locator": "铜奖 section, team MCB2102791"
+        }
+      ],
+      "sha256": "e4992f2f96f7e3c4264d5ce8568ead5955c8eacab4e6d046f3ebe08e4d43669c",
+      "bytes": 1543710,
+      "pdf_page_count": 23,
+      "reading_status": "all_pages_of_public_pdf_read",
+      "read_pages": "1-23",
+      "visually_inspected_pdf_pages": [
+        6,
+        15,
+        18
+      ],
+      "independently_reproduced": false,
+      "completeness_note": "23-page public PDF; footer says 84 pages and TOC lists notebook/Python appendices through page 83; public copy ends after conclusions and references. Code appendices were not available in this member."
+    }
+  ],
+  "paper_archive_and_award_sources": [
+    {
+      "id": "official-paper-index",
+      "title": "MathorCup大数据竞赛历年优秀论文发布",
+      "url": "https://www.mathorcup.org/detail/2394",
+      "authority": "organizer website",
+      "retrieved_date": "2026-08-31",
+      "access": "read_public_page",
+      "restriction_note": "Page says for competitor reference and no plagiarism; redistribution permission not inferred."
+    },
+    {
+      "id": "official-2021-paper-archive",
+      "title": "2021年MathorCup大数据竞赛优秀论文.rar",
+      "url": "https://www.mathorcup.org/uploads/files/20221124/1669275962173917.rar",
+      "authority": "organizer attachment linked by official-paper-index",
+      "retrieved_date": "2026-08-31",
+      "access": "downloaded_public_attachment",
+      "bytes": 14223534,
+      "sha256": "a7863666c1902515800b4869f7436e011b9b9e7ab9db2d30d5f70c8236e91d71"
+    },
+    {
+      "id": "official-2021-grade-notice",
+      "title": "2021年MathorCup大数据竞赛获奖名单公布",
+      "url": "https://m.saikr.com/contest/notice_detail/8779",
+      "published_date": "2022-04-07",
+      "authority": "organizer announcement on competition platform",
+      "retrieved_date": "2026-08-31",
+      "access": "read_public_page"
+    },
+    {
+      "id": "official-2021-grade-awards",
+      "title": "2021年MathorCup大数据竞赛成绩公示.pdf, attached to final award announcement",
+      "url": "https://publicqn.saikr.com/2022/04/07/contest/e3924dee81f385865f84232e44fd6cd01649323578151.pdf",
+      "authority": "attachment to official-2021-grade-notice",
+      "retrieved_date": "2026-08-31",
+      "access": "downloaded_and_read_selected_team_rows",
+      "bytes": 608790,
+      "sha256": "4d7a164dd7d21f2d55e698ba1b8243bae2f932d67a5d24710c47c0da92e1aeab",
+      "pdf_page_count": 33
+    },
+    {
+      "id": "official-2021-medal-notice",
+      "title": "2021年MathorCup大数据竞赛金银铜奖获奖名单公布",
+      "url": "https://www.saikr.com/c/nd/9155",
+      "published_date": "2022-05-24",
+      "authority": "organizer announcement on competition platform",
+      "retrieved_date": "2026-08-31",
+      "access": "web_fetch_cache_miss_then_public_html_download_success",
+      "bytes": 42709,
+      "sha256": "23dcb22a689458c28842f8ac1ea65d74b08a9f5df37ce7a4179af048a2599058"
+    },
+    {
+      "id": "official-2021-medal-table",
+      "title": "2021年MathorCup大数据竞赛金银铜奖名单表",
+      "url": "https://publicqn.saikr.com/2022/05/24/621_628caab5261f4.png",
+      "authority": "image embedded in official-2021-medal-notice",
+      "retrieved_date": "2026-08-31",
+      "access": "downloaded_and_visually_read_all_eight_team_rows",
+      "bytes": 51234,
+      "sha256": "0d665c2c9721d88b9812bc0c3cb6309dbeb9f5af8fab699c81200005538179ab"
+    },
+    {
+      "id": "official-2021-competition-page",
+      "title": "2021年MathorCup高校数学建模挑战赛——大数据竞赛",
+      "url": "https://www.saikr.com/vse/bigdata1",
+      "authority": "organizer competition page",
+      "retrieved_date": "2026-08-31",
+      "access": "read_public_page",
+      "historical_rule_only": true
+    },
+    {
+      "id": "official-2021-charter",
+      "title": "2021年MathorCup高校数学建模挑战赛——大数据竞赛章程",
+      "url": "https://www.mathorcup.org/detail/2355",
+      "authority": "organizer website",
+      "retrieved_date": "2026-08-31",
+      "access": "read_public_web_content",
+      "historical_rule_only": true
+    }
+  ],
+  "mirrored_huawei_award_files": [
+    {
+      "file": "awards2023-A.xlsx",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/2023年最终获奖名单/“华为杯”第二十届中国研究生数学建模竞赛A题成绩.xlsx",
+      "sha256": "6d5151701b58f1485aa5be6a0f57d8192ac9e5b4d61566b32159651726fad6e0",
+      "bytes": 64816,
+      "accessed": "2026-08-31"
+    },
+    {
+      "file": "awards2023-B.xlsx",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/2023年最终获奖名单/“华为杯”第二十届中国研究生数学建模竞赛B题成绩.xlsx",
+      "sha256": "48c1bd1282cc1d7e03f00f22d6e674ac6d289e417989d6281376d38d9be6a731",
+      "bytes": 60111,
+      "accessed": "2026-08-31"
+    },
+    {
+      "file": "awards2023-E.xlsx",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/2023年最终获奖名单/“华为杯”第二十届中国研究生数学建模竞赛E题成绩.xlsx",
+      "sha256": "f3db2e610efe77bd7d194c40ab7b9f223541df9839031da577c140aead236db5",
+      "bytes": 630890,
+      "accessed": "2026-08-31"
+    },
+    {
+      "file": "awards2023-F.xlsx",
+      "url": "https://raw.githubusercontent.com/zhanwen/MathModel/master/2023年最终获奖名单/“华为杯”第二十届中国研究生数学建模竞赛F题成绩.xlsx",
+      "sha256": "a55c1b311bdb7526b8146862d6f9ab866e865257abe4bde97131964bf6020a19",
+      "bytes": 142219,
+      "accessed": "2026-08-31"
+    }
+  ],
+  "existing_skill_design_sources": [
+    {
+      "id": "xiaoma",
+      "url": "https://github.com/XiaoMaColtAI/math-modeling-skill",
+      "branch": "main",
+      "declared_version": "1.2.0",
+      "commit": null,
+      "license_status": "not_verified_root_LICENSE_404",
+      "files": [
+        {
+          "id": "X-README",
+          "url": "https://github.com/XiaoMaColtAI/math-modeling-skill",
+          "read_scope": "README and repository root listing",
+          "retrieval": "web",
+          "status": "read"
+        },
+        {
+          "id": "X-ENTRY",
+          "url": "https://raw.githubusercontent.com/XiaoMaColtAI/math-modeling-skill/main/SKILL.md",
+          "read_scope": "full skill entry",
+          "retrieval": "web",
+          "status": "read"
+        },
+        {
+          "id": "X-VERSION",
+          "url": "https://raw.githubusercontent.com/XiaoMaColtAI/math-modeling-skill/main/VERSION",
+          "read_scope": "full file: 1.2.0",
+          "retrieval": "web + direct raw HTTP",
+          "status": "read",
+          "http_status": 200
+        },
+        {
+          "id": "X-ENV",
+          "url": "https://raw.githubusercontent.com/XiaoMaColtAI/math-modeling-skill/main/references/roles/%E7%BC%96%E7%A8%8B%E6%89%8B/scripts/check_env.py",
+          "read_scope": "full 84-line dependency checker; not executed",
+          "retrieval": "direct raw HTTP",
+          "status": "read",
+          "http_status": 200
+        },
+        {
+          "id": "X-LICENSE-PROBE",
+          "url": "https://raw.githubusercontent.com/XiaoMaColtAI/math-modeling-skill/main/LICENSE",
+          "read_scope": "root license lookup only",
+          "retrieval": "direct raw HTTP",
+          "status": "not_found",
+          "http_status": 404
+        }
+      ]
+    },
+    {
+      "id": "yushui",
+      "url": "https://github.com/yushui2022/MathModel-Skill",
+      "branch": "master",
+      "declared_version": "2.1.0",
+      "commit": null,
+      "license_status": "not_verified_root_LICENSE_404",
+      "files": [
+        {
+          "id": "Y-README",
+          "url": "https://github.com/yushui2022/MathModel-Skill",
+          "read_scope": "README and repository root listing",
+          "retrieval": "web",
+          "status": "read"
+        },
+        {
+          "id": "Y-ENTRY",
+          "url": "https://raw.githubusercontent.com/yushui2022/MathModel-Skill/master/packages/codex/skills/paper-workflow-orchestrator/SKILL.md",
+          "read_scope": "full orchestrator entry",
+          "retrieval": "web",
+          "status": "read"
+        },
+        {
+          "id": "Y-VERSION",
+          "url": "https://raw.githubusercontent.com/yushui2022/MathModel-Skill/master/VERSION",
+          "read_scope": "full file: 2.1.0",
+          "retrieval": "web + direct raw HTTP",
+          "status": "read",
+          "http_status": 200
+        },
+        {
+          "id": "Y-GUARD",
+          "url": "https://raw.githubusercontent.com/yushui2022/MathModel-Skill/master/packages/codex/skills/paper-workflow-orchestrator/scripts/workflow_guard.py",
+          "read_scope": "stage definitions, artifact/hash verification, status recovery, report generation; not executed",
+          "retrieval": "web",
+          "status": "read_core_implementation"
+        },
+        {
+          "id": "Y-EVIDENCE",
+          "url": "https://raw.githubusercontent.com/yushui2022/MathModel-Skill/master/packages/codex/skills/quality-assurance-auditor/scripts/evidence_gate.py",
+          "read_scope": "provenance/hash checks, non-finite metrics, placeholder artifacts, per-question checks; not executed",
+          "retrieval": "web",
+          "status": "read_core_implementation"
+        },
+        {
+          "id": "Y-LICENSE-PROBE",
+          "url": "https://raw.githubusercontent.com/yushui2022/MathModel-Skill/master/LICENSE",
+          "read_scope": "root license lookup only",
+          "retrieval": "direct raw HTTP",
+          "status": "not_found",
+          "http_status": 404
+        }
+      ]
+    },
+    {
+      "id": "cha",
+      "url": "https://github.com/cha3343954211/math-modeling-skill",
+      "branch": "main",
+      "declared_version": "6.4.0",
+      "utility_declared_version": "3.0",
+      "commit": null,
+      "license_status": "MIT_root_text_read",
+      "cache_note": "GitHub rendered entry was older than directly fetched raw entry despite the same declared version; report uses current raw entry.",
+      "files": [
+        {
+          "id": "C-README",
+          "url": "https://github.com/cha3343954211/math-modeling-skill",
+          "read_scope": "README and repository root listing; award-related claims not independently verified",
+          "retrieval": "web",
+          "status": "read"
+        },
+        {
+          "id": "C-ENTRY",
+          "url": "https://raw.githubusercontent.com/cha3343954211/math-modeling-skill/main/math-modeling/SKILL.md",
+          "read_scope": "full current skill entry including mode routing and hard rules",
+          "retrieval": "GitHub rendered web + direct raw HTTP",
+          "status": "read",
+          "http_status": 200
+        },
+        {
+          "id": "C-TOPIC",
+          "url": "https://raw.githubusercontent.com/cha3343954211/math-modeling-skill/main/math-modeling/stages/00_topic.md",
+          "read_scope": "full 83-line stage",
+          "retrieval": "direct raw HTTP",
+          "status": "read",
+          "http_status": 200
+        },
+        {
+          "id": "C-PACK",
+          "url": "https://raw.githubusercontent.com/cha3343954211/math-modeling-skill/main/math-modeling/stages/05_pack.md",
+          "read_scope": "full 77-line stage",
+          "retrieval": "direct raw HTTP",
+          "status": "read",
+          "http_status": 200
+        },
+        {
+          "id": "C-UTILS",
+          "url": "https://raw.githubusercontent.com/cha3343954211/math-modeling-skill/main/math-modeling/scripts/math_modeling_utils.py",
+          "read_scope": "head, class declarations, tail and lines 667-695 of 737-line file; not executed",
+          "retrieval": "direct raw HTTP",
+          "status": "read_excerpts",
+          "http_status": 200,
+          "static_review_finding": "Overproduction linearization lacks equality enforcement for surplus; report provides independent analytic counterexample."
+        },
+        {
+          "id": "C-LICENSE",
+          "url": "https://raw.githubusercontent.com/cha3343954211/math-modeling-skill/main/LICENSE",
+          "read_scope": "full MIT license text",
+          "retrieval": "web + direct raw HTTP",
+          "status": "read",
+          "http_status": 200,
+          "spdx": "MIT"
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Current official rules must be rechecked before competition assistance.",
+    "Seven prize-paper identities checked; one author-reported supplemental paper kept separate.",
+    "No complete submission-package reproduction; selected public PDFs omit some appendices.",
+    "No copied third-party code, paper images or full paper text in this skill.",
+    "Version labels are repository self-reports; commit identifiers not obtained.",
+    "Small development evaluations do not establish award probability or causal advantage."
+  ]
+}
