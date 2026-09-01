@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+
+# Local research and generated evidence
+research/
+grad-math-modeling-workspace/
+tool-tests/
+*.tmp
+
