@@ -1,0 +1,4 @@
+interface:
+  display_name: "研究生数学建模全流程"
+  short_description: "从选题到论文的研究生数模工作流，重视真实结果、验证和赛规"
+  default_prompt: "使用 $grad-math-modeling 根据题目、数据和剩余时间推进数学建模，先给出当前最值得完成的一步并实际执行。"
